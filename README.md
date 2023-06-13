@@ -65,7 +65,7 @@ $ npm run start
 
 ### 🎨 Final Design
 <div align=center>
-<img src="https://media.discordapp.net/attachments/967162864408346697/1118007142759276544/pc.png?width=797&height=612" width="500" alt="aplication in the web" />
+<img margin-right ="20" src="https://media.discordapp.net/attachments/967162864408346697/1118007142759276544/pc.png?width=797&height=612" width="500" alt="aplication in the web" />
  <img src="https://media.discordapp.net/attachments/967162864408346697/1118007101294391297/Pixel_7_Pro_Mockup.png?width=290&height=612" width="150" alt="aplication in the fone" />
 </div>
 
