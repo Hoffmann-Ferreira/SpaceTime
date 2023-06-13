@@ -31,7 +31,7 @@
 ### Mobile
 
 <div>
- <img src=" https://media.discordapp.net/attachments/967162864408346697/1118235615432032256/1631026680-logo-react-native.png?width=652&height=428" width="150" alt="React Native Logo" />
+ <img src="https://media.discordapp.net/attachments/967162864408346697/1118235615432032256/1631026680-logo-react-native.png?width=652&height=428" width="150" alt="React Native Logo" />
  <img src="https://media.discordapp.net/attachments/967162864408346697/1117989447821180970/9db6eb00-4e20-4977-8145-359ed01c2eee-1614024984718.png?width=1166&height=612" width="150" alt="Expo Logo" />
  <img src="https://media.discordapp.net/attachments/967162864408346697/1117986687092539402/tailwind-css-logo-vector.png?width=1102&height=612" width="150" alt="taiwind css Logo" />
   <img src="https://media.discordapp.net/attachments/967162864408346697/1117987627329654794/105883616-57dbeb00-6007-11eb-9df2-de0e2a42655c.png?width=1120&height=612" width="150" alt="Axios logo" />
