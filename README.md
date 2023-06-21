@@ -78,4 +78,4 @@ $ npm run start
 ## 📞 Contact
 
 - Author - [Andrei Hofffmann Fereira](https://kamilmysliwiec.com)
-- Linkedin - [https://www.linkedin.com/in/advogadoandreihoffmann/](https://www.linkedin.com/in/advogadoandreihoffmann/)
+- Linkedin - [https://www.linkedin.com/in/advogadoandreihoffmann/](https://www.linkedin.com/in/devhoffmannferreira/)
