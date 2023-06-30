@@ -77,5 +77,5 @@ $ npm run start
 
 ## 📞 Contact
 
-- Author - [Andrei Hofffmann Fereira](https://kamilmysliwiec.com)
+- Author - <a href="https://wa.me/+5532984179500">Andrei Hoffmann Ferreira</a>
 - Linkedin - [https://www.linkedin.com/in/devhoffmannferreira/](https://www.linkedin.com/in/devhoffmannferreira/)
